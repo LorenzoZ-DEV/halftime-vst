@@ -1,4 +1,4 @@
-# Halftime
+# Halftime (AI TEST)
 
 Plugin VST3 (JUCE) che rallenta l'audio a metà velocità, sincronizzato al tempo dell'host. Implementazione originale.
 
